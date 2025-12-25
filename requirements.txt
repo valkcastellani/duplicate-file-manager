@@ -1,0 +1,6 @@
+# Requisitos para Duplicate File Manager
+# Apenas bibliotecas padrão do Python são usadas (Tkinter já vem com Python na maioria das distribuições)
+# Se necessário, instale o Tkinter:
+#   - Ubuntu/Debian: sudo apt-get install python3-tk
+#   - Mac: já incluso
+#   - Windows: já incluso
